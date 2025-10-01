@@ -1,0 +1,12 @@
+{
+  "name": "after-class-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jean Paul Ferreira",
+  "license": "MIT",
+  "type": "module"
+}
