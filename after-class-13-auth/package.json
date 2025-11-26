@@ -1,0 +1,17 @@
+{
+  "name": "after-class-13-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Jean Paul Ferreira",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
