@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Lenovo IdeaPad 15",
+    "precio": 699000,
+    "categorias": ["Tecnología", "Computadoras", "Notebooks"]
+  },
+  {
+    "id": 2,
+    "nombre": "Auriculares Bluetooth Sony WH-CH520",
+    "precio": 85000,
+    "categorias": ["Tecnología", "Audio", "Accesorios"]
+  },
+  {
+    "id": 3,
+    "nombre": "Cafetera Oster Programable",
+    "precio": 120000,
+    "categorias": ["Hogar", "Cocina", "Electrodomésticos"]
+  },
+  {
+    "id": 4,
+    "nombre": "Zapatillas Nike Revolution 6",
+    "precio": 95000,
+    "categorias": ["Moda", "Calzado", "Deportes"]
+  },
+  {
+    "id": 5,
+    "nombre": "Silla Ergonómica Gamer RGB",
+    "precio": 185000,
+    "categorias": ["Hogar", "Oficina", "Gaming"]
+  },
+  {
+    "id": 1763685987620,
+    "nombre": "Product 1",
+    "precio": 1000,
+    "categorias": ["Tecnología", "Accesorios"]
+  },
+  {
+    "id": 1763686078888,
+    "nombre": "Product 1b",
+    "precio": 1000,
+    "categorias": ["Tecnología", "Accesorios"]
+  }
+]
