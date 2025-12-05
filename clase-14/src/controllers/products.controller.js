@@ -14,7 +14,7 @@ export const getProductById = async (req, res) => {
 };
 
 export const createProduct = async (req, res) => {
-  if (typeof req.body.nombre == undefined) {
+  if (typeof req.body.name == undefined) {
     return res.status(422).json({ error: "El nombre es obligatorio" });
   }
 

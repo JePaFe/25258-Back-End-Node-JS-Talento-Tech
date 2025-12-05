@@ -2,7 +2,7 @@
   "name": "after-class-13-auth",
   "version": "1.0.0",
   "description": "",
-  "main": "c",
+  "main": "",
   "scripts": {
     "start": "node index.js",
     "dev": "node --watch index.js"
@@ -11,6 +11,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2"
   }
